@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:rotten_flesh"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather",
+        "count": 1
+    }
+}

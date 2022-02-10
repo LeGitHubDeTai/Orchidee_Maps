@@ -1,0 +1,305 @@
+{
+  "custom:collection/villager/savanna/end_line_savanna_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/taiga/end_line_taiga_zombie_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/jungle/parrot/end_line_parrot": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/rabbit/end_line_rabbit": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/nether/end_line_nether": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/hostile/classic/end_line_classic": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/savanna/end_line_savanna_zombie_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/villager/desert/end_line_desert_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/jungle/other/end_line_other": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-02-16 22:46:41 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/desert/end_line_desert_zombie_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2021-02-19 19:24:43 +0000",
+      "minecraft:forest": "2021-02-23 10:28:04 +0000",
+      "minecraft:desert_hills": "2021-02-16 22:45:50 +0000",
+      "minecraft:desert": "2021-02-23 10:27:53 +0000",
+      "minecraft:dark_forest": "2021-02-16 22:47:13 +0000",
+      "minecraft:river": "2021-02-16 22:47:18 +0000",
+      "minecraft:wooded_hills": "2021-02-17 10:36:55 +0000",
+      "minecraft:plains": "2021-02-16 22:45:37 +0000"
+    },
+    "done": false
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/villager/plain/end_line_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/sea/end_line_sea": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/wither_boss/end_line_wither_boss": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/jungle/end_line_jungle_zombie_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/hostile/vanilla/end_line_vanilla": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/villager/snow/end_line_snow_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/end/classic/end_line_classic": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/villager/swamp/end_line_swamp_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/horse/end_line_horse": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/canidae/fox/end_line_fox": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/hostile/anti_villager/end_line_anti_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/villager/taiga/end_line_taiga_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/llama/end_line_llama": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/jungle/panda/end_line_panda": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-02-16 22:46:41 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/hostile/slime/end_line_slime": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/plain/end_line_zombie_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/bee/end_line_bee": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-02-16 22:46:41 +0000",
+      "minecraft:nether_wastes": "2021-02-16 22:46:48 +0000"
+    },
+    "done": false
+  },
+  "custom:collection/zombie_villager/snow/end_line_snow_zombie_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/sheep/end_line_sheep": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/villager/jungle/end_line_jungle_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/passive/end_line_passive": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/swamp/end_line_swamp_zombie_villager": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/end/shulker/end_line_shulker": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/canidae/wolf/end_line_wolf": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/canidae/dog/end_line_dog": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "custom:collection/cat/end_line_cat": {
+    "criteria": {
+      "location": "2021-02-16 22:45:37 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2021-02-23 10:27:46 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

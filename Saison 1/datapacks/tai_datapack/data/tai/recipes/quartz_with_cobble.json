@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "XO",
+        "OX"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:diorite"
+        },
+        "O": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "result": {
+        "item": "minecraft:quartz_block",
+        "count": 4
+    }
+}
