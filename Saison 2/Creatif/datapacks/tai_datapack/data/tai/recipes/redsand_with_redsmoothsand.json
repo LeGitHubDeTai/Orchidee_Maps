@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "X"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:smooth_red_sandstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_sand",
+        "count": 4
+    }
+}
