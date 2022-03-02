@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:kelp"
+        }
+    },
+    "result": {
+        "item": "minecraft:paper",
+        "count": 3
+    }
+}

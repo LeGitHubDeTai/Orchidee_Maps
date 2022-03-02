@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "X",
+        "O"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:wheat_seeds"
+        },
+        "O": {
+            "item": "minecraft:dirt"
+        }
+    },
+    "result": {
+        "item": "minecraft:grass_block",
+        "count": 1
+    }
+}
