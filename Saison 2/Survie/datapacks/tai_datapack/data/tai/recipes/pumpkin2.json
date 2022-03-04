@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:pumpkin_seeds"
+        }
+    },
+    "result": {
+        "item": "minecraft:pumpkin",
+        "count": 1
+    }
+}
