@@ -1,0 +1,297 @@
+{
+  "custom:collection/villager/savanna/end_line_savanna_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/taiga/end_line_taiga_zombie_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/jungle/parrot/end_line_parrot": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/rabbit/end_line_rabbit": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/nether/end_line_nether": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/hostile/classic/end_line_classic": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/savanna/end_line_savanna_zombie_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/villager/desert/end_line_desert_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/jungle/other/end_line_other": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/desert/end_line_desert_zombie_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-01-23 03:37:45 +0100"
+    },
+    "done": false
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/villager/plain/end_line_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/wither_boss/end_line_wither_boss": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/jungle/end_line_jungle_zombie_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/sea/axolotl/end_line_axolotl": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/villager/snow/end_line_snow_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/end/classic/end_line_classic": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/horse/end_line_horse": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/villager/swamp/end_line_swamp_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/canidae/fox/end_line_fox": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/hostile/anti_villager/end_line_anti_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/villager/taiga/end_line_taiga_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/llama/end_line_llama": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/sea/sea_passive/end_line_passive": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/jungle/panda/end_line_panda": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/hostile/slime/end_line_slime": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/plain/end_line_zombie_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/sea/sea_hostile/end_line_hostile": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/bee/end_line_bee": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/snow/end_line_snow_zombie_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/sheep/end_line_sheep": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/villager/jungle/end_line_jungle_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/passive/end_line_passive": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/zombie_villager/swamp/end_line_swamp_zombie_villager": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/end/shulker/end_line_shulker": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/canidae/wolf/end_line_wolf": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/canidae/dog/end_line_dog": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "custom:collection/cat/end_line_cat": {
+    "criteria": {
+      "end": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2022-01-23 03:37:45 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}
